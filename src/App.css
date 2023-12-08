@@ -7,6 +7,31 @@
   pointer-events: none;
 }
 
+.recbtn{
+  float:left;
+}
+.btn {
+  margin: 5px;
+}
+/* .link-style {
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  
+} */
+/* Other styles as per Bootstrap's btn-success */
+/* .link-style:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+
+} */
+  /* Hover styles */
+/* .link-style:focus,
+.link-style.focus {
+  box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5);
+
+} */
+  /* Focus styles */
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

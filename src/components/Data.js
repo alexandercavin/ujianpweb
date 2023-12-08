@@ -1,0 +1,96 @@
+const data = [
+    {
+        id : 1,
+        npm : 50421109,
+        nama : "Alexander Cavin T.",
+        kelas : "3IA05",
+        role : "Initiator",
+        rank : "Immortal",
+        sub : "No"
+    },
+
+    {   
+        id : 2,
+        npm : 51421399,
+        nama : "Sebastian Dwi Nugraha",
+        kelas : "3IA05",
+        role : "Fill",
+        rank : "Platinum",
+        sub : "No"
+    },
+
+    {
+        id : 3,
+        npm : 50421761,
+        nama : "M. Alvin Wijaya",
+        kelas : "3IA05",
+        role : "Duelist",
+        rank : "Immortal",
+        sub : "No"
+    },
+
+
+    {
+        id : 4,
+        npm : 51421339,
+        nama : "Rizki Dharma Satya",
+        kelas : "3IA05",
+        role : "Smoker",
+        rank : "Platinum",
+        sub : "No"
+    },
+
+    {
+        id : 5,
+        npm : 50421681,
+        nama : "Jhon Efriel Sagala",
+        kelas : "3IA05",
+        role : "Sentinel",
+        rank : "Gold ☠",
+        sub : "No"
+    },
+
+    {
+        id : 6,
+        npm : 50421114,
+        nama : "Alfito Anugrah Sitohang",
+        kelas : "3IA05",
+        role : "Duelist/sentinel",
+        rank : "Radiant",
+        sub : "Yes"
+    },
+
+    {
+        id : 7,
+        npm : 51421237,
+        nama : "Raihan Putra Dwiyana",
+        kelas : "3IA05",
+        role : "Sesuka hati dia",
+        rank : "Platinum",
+        sub : "Yes"
+    },
+
+    {
+        id : 8,
+        npm : 50421804,
+        nama : "Maymirza Faiz Firdaus",
+        kelas : "3IA05",
+        role : "Sesuka hati dia",
+        rank : "Platinum",
+        sub : "Yes"
+    },
+
+    {
+        id : 9,
+        npm : 50421986,
+        nama : "Muhammad Helmi Fadilah Baihaki",
+        kelas : "3IA05",
+        role : "duelist",
+        rank : "Immortal",
+        sub : "Yes"
+    },
+    
+
+]
+
+export default data;
